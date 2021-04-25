@@ -1,4 +1,4 @@
-#import packages for streamlit, pandas, numpy, ML algorithms and metrics
+#import packages for streamlit, pandas, numpy, ML algorithms and the corresponding metrics
 import streamlit as st
 import pandas as pd
 import numpy as np
